@@ -24,7 +24,7 @@
             <Keywords name="Folders in comment, open"></Keywords>
             <Keywords name="Folders in comment, middle"></Keywords>
             <Keywords name="Folders in comment, close"></Keywords>
-            <Keywords name="Keywords1">append break cap case chan close complex const continue copy default defer else fallthrough for func go goto if iota imag import interface len make map new package panic println range real recover return select struct switch type var end </Keywords>
+            <Keywords name="Keywords1">append break cap case chan close complex const continue copy default defer else fallthrough for func go goto if iota imag import interface len make map new package panic println range real recover return select struct switch type var end with </Keywords>
             <Keywords name="Keywords2">nil true false</Keywords>
             <Keywords name="Keywords3">bool byte complex128 complex64 float32 float64 int int16 int32 int64 int8 uint uint16 uint32 uint64 uint8 uintptr string rune error ComplexType FloatType IntegerType Type Type1</Keywords>
             <Keywords name="Keywords4">$ . </Keywords>
