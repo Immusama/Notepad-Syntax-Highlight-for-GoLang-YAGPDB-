@@ -1,4 +1,4 @@
-# Notepad++-Syntax-Highlight-for-GoLang-YAGPDB-
+## Notepad++ Syntax-Highlight for GoLang YAGPDB
 
 
 ## How to
