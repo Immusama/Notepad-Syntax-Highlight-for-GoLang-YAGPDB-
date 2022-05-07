@@ -1,5 +1,7 @@
 # Notepad-Syntax-Highlight-for-GoLang-YAGPDB-
 
+
+## How to
 1. Download GoLang.xml and then open Notepad++.
 3. Go to Toolbar Settings => "Preferences..." -> select "Dark Mode".
 3. Go to Toolbar Menu => Language => "Define your language..." -> Import.
